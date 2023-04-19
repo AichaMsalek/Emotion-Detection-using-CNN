@@ -14,5 +14,7 @@ This project requires the following Python packages:
 - Matplotlib
 - Scikit-learn
 
+### Results
+![nom de l'image](img/2.PNG)
+![nom de l'image](img/1.PNG)
 
-![nom de l'image](Screen2emotiondetection.PNG)
