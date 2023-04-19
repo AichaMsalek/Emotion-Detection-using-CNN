@@ -13,3 +13,6 @@ This project requires the following Python packages:
 - opencv-python
 - Matplotlib
 - Scikit-learn
+
+
+![nom de l'image](lien de l'image)
